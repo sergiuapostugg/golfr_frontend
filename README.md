@@ -24,6 +24,7 @@ This is the code for the Golfr app frontend.
 
 `yarn test`
  -->
+ 
 #### Running eslint
 
 `yarn lint`
