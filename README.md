@@ -5,7 +5,7 @@ This is the code for the Golfr app frontend.
 ## Setup
 
 1. Set up the `golfr_backend` repository
-2. Go to `Actions` tab and enable workflows
+2. Go to `Actions` tab and enable workflows!
 3. Clone this repository
 4. Install yarn
 5. `yarn install`
@@ -24,6 +24,7 @@ This is the code for the Golfr app frontend.
 
 `yarn test`
  -->
+ 
 #### Running eslint
 
 `yarn lint`
